@@ -25,12 +25,13 @@
     target: '#sideNav'
   });
 
-  $(document).ready(function randomPic(){
-    var min = 1;
-    var max = 3;
-    var picNum =Math.floor(Math.random()*(max-min+1))+min;
-    $("#profilePic").attr("src", "img/profile" + picNum + ".jpg");
-  });
+  // $(document).ready(function randomPic(){
+  //   var min = 2;
+  //   var max = 3;
+  //   var picNum =Math.floor(Math.random()*(max-min+1))+min;
+  //   $("#profilePic").attr("src", "img/profile" + picNum + ".jpg");
+  //   $("#profilePic2").attr("src", "img/profile" + picNum + ".jpg");
+  // });
 
 
 })(jQuery); // End of use strict

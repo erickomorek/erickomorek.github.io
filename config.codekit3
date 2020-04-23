@@ -25,6 +25,16 @@
 		"oAP": "/.travis.yml",
 		"oF": 0
 		},
+	"/css/resume-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/css/resume-min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"/css/resume.css": {
 		"aP": 1,
 		"bl": 0,
@@ -32,17 +42,7 @@
 		"ma": 0,
 		"oA": 0,
 		"oAP": "/css/resume-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"/css/resume.min.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "/css/resume.min-min.css",
-		"oF": 0,
+		"oF": 1,
 		"oS": 3
 		},
 	"/gulpfile.js": {
@@ -55,17 +55,6 @@
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
-		},
-	"/img/profile1.jpg": {
-		"ft": 16384,
-		"iS": 152055,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/img/profile1.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
 		},
 	"/img/profile2.jpg": {
 		"ft": 16384,
@@ -239,6 +228,16 @@
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
+		},
+	"/scss/resume.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/scss/resume-min.css",
+		"oF": 0,
+		"oS": 3
 		},
 	"/scss/resume.scss": {
 		"aP": 0,
